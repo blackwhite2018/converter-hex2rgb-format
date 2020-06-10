@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/converter-hex2rgb-format/static/css/main.0228b0f6.chunk.css",
+    "main.js": "/converter-hex2rgb-format/static/js/main.56c8458d.chunk.js",
+    "main.js.map": "/converter-hex2rgb-format/static/js/main.56c8458d.chunk.js.map",
+    "runtime-main.js": "/converter-hex2rgb-format/static/js/runtime-main.f7eedc30.js",
+    "runtime-main.js.map": "/converter-hex2rgb-format/static/js/runtime-main.f7eedc30.js.map",
+    "static/js/2.cbd3595a.chunk.js": "/converter-hex2rgb-format/static/js/2.cbd3595a.chunk.js",
+    "static/js/2.cbd3595a.chunk.js.map": "/converter-hex2rgb-format/static/js/2.cbd3595a.chunk.js.map",
+    "index.html": "/converter-hex2rgb-format/index.html",
+    "precache-manifest.e560bf2e29c8221f3750bc8d265eca3d.js": "/converter-hex2rgb-format/precache-manifest.e560bf2e29c8221f3750bc8d265eca3d.js",
+    "service-worker.js": "/converter-hex2rgb-format/service-worker.js",
+    "static/css/main.0228b0f6.chunk.css.map": "/converter-hex2rgb-format/static/css/main.0228b0f6.chunk.css.map",
+    "static/js/2.cbd3595a.chunk.js.LICENSE.txt": "/converter-hex2rgb-format/static/js/2.cbd3595a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7eedc30.js",
+    "static/js/2.cbd3595a.chunk.js",
+    "static/css/main.0228b0f6.chunk.css",
+    "static/js/main.56c8458d.chunk.js"
+  ]
+}
