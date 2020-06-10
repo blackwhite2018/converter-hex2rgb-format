@@ -1,0 +1,30 @@
+html,
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.window {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 200px;
+}
+
+.form__input {
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.form__text {
+    text-align: center;
+    filter: hue-rotate(10deg);
+    font-weight: bold;
+    padding: 10px 20px;
+    width: 100%;
+}
